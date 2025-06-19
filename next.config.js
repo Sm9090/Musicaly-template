@@ -2,6 +2,7 @@ const path = require('path');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  trailingSlash: false,
   eslint: {
     ignoreDuringBuilds: true, // ✅ disables ESLint during Vercel builds
   },
