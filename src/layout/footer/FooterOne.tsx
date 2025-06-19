@@ -19,14 +19,14 @@ const FooterOne = () => {
                                         <div className="ms-footer-widget mb-50">
                                             <h3 className="ms-footer-title">Local Band Group</h3>
                                             <ul>
-                                                <li><Link href="/team">The Tricks</Link></li>
-                                                <li><Link href="/team">Sound City</Link></li>
-                                                <li><Link href="/team">Big Teaser</Link></li>
-                                                <li><Link href="/team">The New Tones</Link></li>
-                                                <li><Link href="/team">Halos Music</Link></li>
-                                                <li><Link href="/team">Soho Soul</Link></li>
-                                                <li><Link href="/team">Atlantic</Link></li>
-                                                <li><Link href="/team">The Fiction</Link></li>
+                                                <li><Link href="#">The Tricks</Link></li>
+                                                <li><Link href="#">Sound City</Link></li>
+                                                <li><Link href="#">Big Teaser</Link></li>
+                                                <li><Link href="#">The New Tones</Link></li>
+                                                <li><Link href="#">Halos Music</Link></li>
+                                                <li><Link href="#">Soho Soul</Link></li>
+                                                <li><Link href="#">Atlantic</Link></li>
+                                                <li><Link href="#">The Fiction</Link></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -34,13 +34,13 @@ const FooterOne = () => {
                                         <div className="ms-footer-widget mb-50">
                                             <h3 className="ms-footer-title">Trending Genres</h3>
                                             <ul>
-                                                <li><Link href="/genres">Wedding Bands</Link></li>
-                                                <li><Link href="/genres">Jazz & Swing</Link></li>
-                                                <li><Link href="/genres">Musician</Link></li>
-                                                <li><Link href="/genres">Classical Musician</Link></li>
-                                                <li><Link href="/genres">Corporate Party</Link></li>
-                                                <li><Link href="/genres">Premiere Party Band</Link></li>
-                                                <li><Link href="/genres">DJ Songs</Link></li>
+                                                <li><Link href="#">Wedding Bands</Link></li>
+                                                <li><Link href="#">Jazz & Swing</Link></li>
+                                                <li><Link href="#">Musician</Link></li>
+                                                <li><Link href="#">Classical Musician</Link></li>
+                                                <li><Link href="#">Corporate Party</Link></li>
+                                                <li><Link href="#">Premiere Party Band</Link></li>
+                                                <li><Link href="#">DJ Songs</Link></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -48,14 +48,14 @@ const FooterOne = () => {
                                         <div className="ms-footer-widget mb-50">
                                             <h3 className="ms-footer-title">Country We Serve</h3>
                                             <ul>
-                                                <li><Link href="/contact">United State</Link></li>
-                                                <li><Link href="/contact">Canada</Link></li>
-                                                <li><Link href="/contact">Australia</Link></li>
-                                                <li><Link href="/contact">China</Link></li>
-                                                <li><Link href="/contact">South Korea</Link></li>
-                                                <li><Link href="/contact">Japan</Link></li>
-                                                <li><Link href="/contact">Singapore</Link></li>
-                                                <li><Link href="/contact">Hong Kong</Link></li>
+                                                <li><Link href="#">United State</Link></li>
+                                                <li><Link href="#">Canada</Link></li>
+                                                <li><Link href="#">Australia</Link></li>
+                                                <li><Link href="#">China</Link></li>
+                                                <li><Link href="#">South Korea</Link></li>
+                                                <li><Link href="#">Japan</Link></li>
+                                                <li><Link href="#">Singapore</Link></li>
+                                                <li><Link href="#">Hong Kong</Link></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -63,11 +63,11 @@ const FooterOne = () => {
                                         <div className="ms-footer-widget mb-50">
                                             <h3 className="ms-footer-title">Company</h3>
                                             <ul>
-                                                <li><Link href="/about">About us</Link></li>
-                                                <li><Link href="/contact">Contact us</Link></li>
-                                                <li><Link href="/terms-policy">Terms & Policy</Link></li>
-                                                <li><Link href="/contact">Help & Support</Link></li>
-                                                <li><Link href="/faq">Faq</Link></li>
+                                                <li><Link href="#">About us</Link></li>
+                                                <li><Link href="#">Contact us</Link></li>
+                                                <li><Link href="#">Terms & Policy</Link></li>
+                                                <li><Link href="#">Help & Support</Link></li>
+                                                <li><Link href="#">Faq</Link></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -100,7 +100,7 @@ const FooterOne = () => {
                                     </Link>
                                 </div>
                                 <div className="ms-footer-copy">
-                                    <p>© Musicly 2024, All Rights Reserved</p>
+                                    <p>© Musiqcue 2025, All Rights Reserved</p>
                                 </div>
                             </div>
                         </div>

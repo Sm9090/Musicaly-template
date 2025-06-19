@@ -133,7 +133,7 @@ const menu_data: TMenuItem[] = [
   {
     id: 2,
     title: "About Us",
-    link: "/about",
+    link: "#",
   },
   {
     id: 3,
@@ -141,9 +141,9 @@ const menu_data: TMenuItem[] = [
     link: "#",
     hasDropdown: true,
     submenus: [
-      { title: "Music Label Development", link: "/services/music-label-development" },
-      { title: "Music Development", link: "/services/music-development" },
-      { title: "Artist Development", link: "/services/artist-development" },
+      { title: "Music Label Development", link: "#" },
+      { title: "Music Development", link: "#"},
+      { title: "Artist Development", link: "#"}
     ],
   },
   {
@@ -152,15 +152,15 @@ const menu_data: TMenuItem[] = [
     link: "#",
     hasDropdown: true,
     submenus: [
-      { title: "Featured Streams", link: "/music/streams" },
-      { title: "Artist Directory", link: "/music/artists" },
-      { title: "Unsigned Artist Pool", link: "/music/unsigned-artists" },
+      { title: "Featured Streams", link: "#" },
+      { title: "Artist Directory", link: "#" },
+      { title: "Unsigned Artist Pool", link: "#" },
     ],
   },
   {
     id: 5,
     title: "Merchandise",
-    link: "/shop",
+    link: "#",
   },
   {
     id: 6,
@@ -168,20 +168,20 @@ const menu_data: TMenuItem[] = [
     link: "#",
     hasDropdown: true,
     submenus: [
-      { title: "Events", link: "/events" },
-      { title: "Buy Tickets", link: "/tickets" },
-      { title: "RSVP", link: "/rsvp" },
+      { title: "Events", link: "#" },
+      { title: "Buy Tickets", link: "#" },
+      { title: "RSVP", link: "#" },
     ],
   },
   {
     id: 7,
-    title: "Business Opportunities",
+    title: "Business",
     link: "#",
     hasDropdown: true,
     submenus: [
-      { title: "Start a Music Label", link: "/opportunities/label" },
-      { title: "Start a Studio", link: "/opportunities/studio" },
-      { title: "Business Templates", link: "/opportunities/templates" },
+      { title: "Start a Music Label", link: "#" },
+      { title: "Start a Studio", link: "#" },
+      { title: "Business Templates", link: "#" },
     ],
   },
 //   {

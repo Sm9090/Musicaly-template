@@ -18,7 +18,7 @@ const Menus = () => {
                         <ul className="submenu">
                             {menu?.submenus.map((sub, i) => (
                                 <li key={i}>
-                                    <Link href={sub.link} className='2xl:text-[14px]'>
+                                    <Link href={sub.link} className='text-[14px]'>
                                         {sub.title}
                                     </Link>
                                 </li>

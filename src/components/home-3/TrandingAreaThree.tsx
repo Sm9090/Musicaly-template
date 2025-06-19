@@ -54,9 +54,9 @@ const TrandingAreaThree = () => {
                                                 <div className="trending__number">
                                                     <span>{item.serialNumber}</span>
                                                 </div>
-                                                <div className="trending__price">
+                                                {/* <div className="trending__price">
                                                     <span>From ${item.price}</span>
-                                                </div>
+                                                </div> */}
                                             </div>
                                             <div className="ms-trending3-content">
                                                 <h3 className="ms-trending3-title mb-25">

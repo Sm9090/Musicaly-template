@@ -11,7 +11,7 @@ const Home = () => {
         <div className="ms-all-content ms-content-mobile-space pt-130">
           <main>
             <HomeMainArea />
-            <Setting />
+            {/* <Setting /> */}
           </main>
         </div>
       </Wrapper>

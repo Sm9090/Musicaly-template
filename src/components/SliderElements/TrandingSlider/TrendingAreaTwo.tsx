@@ -72,9 +72,9 @@ const TrendingAreaTwo = () => {
                                                 <div className="ms-trending2-item fix">
                                                     <div className="ms-trending2-overlay p-absolute"></div>
                                                     <span className="trending__title">{item.title}</span>
-                                                    <div className="trending__price">
+                                                    {/* <div className="trending__price">
                                                         <span>From ${item.price}</span>
-                                                    </div>
+                                                    </div> */}
                                                     <div className="ms-trending2-img w-img">
                                                         <Link href={`/genres-details/${item.id}`}>
                                                             <Image src={item.image} loader={imageLoader} placeholder="blur" loading='lazy'

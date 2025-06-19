@@ -112,7 +112,7 @@ const HeaderOne = () => {
                                         </div> */}
                                         <div className="header__right">
                                             <div className="mean__menu-wrapper">
-                                                <div className="main-menu main-menu-ff-space d-none d-lg-inline-block">
+                                                <div className="main-menu main-menu-ff-space d-none d-xl-inline-block">
                                                     <nav>
                                                         <ul>
                                                             <Menus />
@@ -183,7 +183,7 @@ const HeaderOne = () => {
                                                         className="fa-regular fa-plus"></i>List
                                                         Your Service</Link>
                                                 </div> */}
-                                                <div className="user__acount d-none d-xxl-inline-flex">
+                                                <div className="user__acount d-none d-xl-inline-flex">
                                                     <span>
                                                         <Link href="/login"><i className="flaticon-user"></i></Link>
                                                     </span>

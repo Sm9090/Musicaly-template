@@ -140,7 +140,7 @@ const FooterThree = () => {
                         <div className="container">
                             <div className="ms-footer-bottom-wrap text-center pt-35 pb-20">
                                 <div className="ms-footer-copy">
-                                    <p>© Musicly 2024, All Rights Reserved</p>
+                                    <p>© Musiqcue 2025, All Rights Reserved</p>
                                 </div>
                             </div>
                         </div>

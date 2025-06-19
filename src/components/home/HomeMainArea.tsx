@@ -11,6 +11,8 @@ import LatestNewsOne from './LatestNewsOne';
 import PartnerAreaSliderOne from '../SliderElements/PartnerAreaSlider/PartnerAreaSliderOne';
 import CtaArea from './CtaArea';
 import SpecialEventSliderOne from '../SliderElements/SpecialEventSlider/SpecialEventSliderOne';
+import SpecialEventTwo from '../home-2/SpecialEventTwo';
+import InterestingNews from './InterestingNews';
 
 const HomeMainArea = () => {
     return (
@@ -23,8 +25,12 @@ const HomeMainArea = () => {
             {/* <WorkArea /> */}
             <FunctionBandsSectionOne />
             {/* <SpecialEventSliderOne /> */}
+            <SpecialEventTwo />
             {/* <TestimonialSliderOne /> */}
             <LatestNewsOne />
+             <InterestingNews />
+            {/* <LatestNewsOne />  */}
+
             {/* <PartnerAreaSliderOne /> */}
             {/* <CtaArea /> */}
         </> 
