@@ -36,15 +36,15 @@
     "sass": "^1.63.4",
     "sharp": "^0.33.2",
     "swiper": "^9.4.1",
-    "yup": "^1.2.0"
+    "yup": "^1.2.0",
+    "typescript": "^5",
+    "@types/node": "^20"
   },
   "devDependencies": {
-    "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@types/react-modal-video": "^1.2.0",
     "eslint": "^8",
-    "eslint-config-next": "14.0.3",
-    "typescript": "^5"
+    "eslint-config-next": "14.0.3"
   }
 }
