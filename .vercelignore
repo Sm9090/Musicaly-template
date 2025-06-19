@@ -1,0 +1,10 @@
+# Prevent recursive build trace issues
+node_modules
+.next
+build
+out
+coverage
+.vercel
+*.log
+*.tsbuildinfo
+.DS_Store
